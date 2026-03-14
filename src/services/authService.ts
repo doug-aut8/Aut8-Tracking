@@ -58,7 +58,7 @@ export async function signUp(
       };
 
       const response = await fetch(
-        "https://n8n-n8n-start.yh11mi.easypanel.host/webhook/Aut5_signup",
+        "https://n8n-n8n-start.yh11mi.easypanel.host/webhook/Aut8_signup",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
