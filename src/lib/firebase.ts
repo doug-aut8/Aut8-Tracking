@@ -6,12 +6,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyB0BSql846hMmBa_WYiwpTdc5MDWEmDHP8",
-  authDomain: "fb-aut6.firebaseapp.com",
-  projectId: "fb-aut6",
-  storageBucket: "fb-aut6.firebasestorage.app",
-  messagingSenderId: "908504345671",
-  appId: "1:908504345671:web:d4d624f3c6a5c4612a5562"
+  apiKey: "AIzaSyBCRxSNGSphCWXWq2-YFE0EqFfil5n8rc8",
+  authDomain: "clickprato-aut8-9acf7.firebaseapp.com",
+  projectId: "clickprato-aut8-9acf7",
+  storageBucket: "clickprato-aut8-9acf7.firebasestorage.app",
+  messagingSenderId: "545112439011",
+  appId: "1:545112439011:web:e21e31bb778a4e381fedd6",
+  measurementId: "G-GR6ZZCVGX1"
 };
 // Inicializar o Firebase
 const app = initializeApp(firebaseConfig);
